@@ -1,0 +1,27 @@
+[
+
+    {
+        "ticker": "USDT",
+        "img": "https://cdn.moralis.io/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+        "name": "Tether USD",
+        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "decimals": 6
+    },
+
+    {
+        "ticker": "DAI",
+        "img": "https://cdn.moralis.io/eth/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+        "name": "Dai Stablecoin",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+    },
+
+    {
+        "ticker": "UNISWAPS",
+        "img": "https://cdn.moralis.io/eth/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+        "name": "UNISWAP",
+        "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+        "decimals": 18
+    }
+    
+]
