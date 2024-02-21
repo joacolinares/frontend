@@ -11,8 +11,8 @@ body {
   background: rgb(52, 25, 25);
   background: linear-gradient(
     180deg,
-    rgb(52, 29, 25) 28%,
-    rgb(244, 0, 0) 75%
+    rgb(226, 135, 51) 28%,
+    rgb(226, 135, 51) 75%
   );
   color: white;
 }

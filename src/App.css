@@ -266,3 +266,42 @@ header {
   font-weight: 300;
   color: #51596f;
 }
+
+
+/* Estilos comunes para el menú */
+.menuItem {
+  color: white;
+  font-weight: bold;
+  padding: 20px;
+  text-decoration: none;
+}
+
+/* Estilos para el botón de hamburguesa */
+.menuToggle {
+  display: none; /* Ocultar el botón en pantallas grandes */
+}
+
+/* Estilos para el menú en dispositivos móviles */
+.mobileMenu {
+  display: block; /* Mostrar el menú en pantallas pequeñas */
+}
+
+/* Estilos para el menú en pantallas grandes */
+
+
+/* Consulta de medios para cambiar el diseño en pantallas pequeñas */
+@media (max-width: 768px) {
+  .menuToggle {
+    display: block; /* Mostrar el botón de hamburguesa en pantallas pequeñas */
+  }
+
+  .menuItem {
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .desktopMenu {
+    display: none; /* Ocultar el menú en pantallas pequeñas */
+  }
+}
